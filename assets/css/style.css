@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  font-family: "Roboto";
+}
+
+a {
+  text-decoration: none;
+  color: rgb(37, 70, 128);
+}
+
+header {
+  background-color: #454545;
+  text-align: center;
+  padding: 10px;
+}
+
+header a {
+  color: rgb(205, 203, 203);
+  padding: 15px;
+  margin: 10px;
+}
+
+header a:hover {
+  color: white;
+}
+
+header img {
+  width: 15px;
+  height: 17px;
+}
+
+main section {
+  margin-bottom: 10px;
+  padding-top: 50px;
+  text-align: center;
+  background-color: rgb(36, 36, 36);
+  color: white;
+}
+main section.iphone14 {
+  background-color: white;
+  color: black;
+}
+
+main section h2 {
+  font-size: 3.5rem;
+  margin-top: 0;
+  margin-bottom: -25px;
+}
+
+main section.iphone14 p {
+  color: black;
+}
+
+main section p {
+  font-size: 2rem;
+  color: rgb(209, 209, 209);
+}
+
+main section p.sales-date {
+  font-size: 1.4rem;
+  color: rgb(125, 125, 125);
+}
+
+main section p.links {
+  font-size: 1.4rem;
+  color: rgb(125, 125, 125);
+  margin-bottom: 70px;
+}
+
+main section p.links a {
+  margin-right: 30px;
+}
+
+main section.watch h2 img {
+  width: 50px;
+  height: auto;
+}
+
+main section.watch .series {
+  font-size: 1.3rem;
+  color: rgb(224, 54, 88);
+  letter-spacing: 0.4rem;
+}
