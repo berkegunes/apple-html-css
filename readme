@@ -1,0 +1,27 @@
+<!-- Apple Homepage Clone -->
+
+This project is a minimalistic clone of the Apple homepage, designed using HTML and CSS. The focus is on clean design, responsiveness, and structured layout, mimicking Apple's sleek aesthetics.
+
+<!-- Features -->
+
+-Navigation Bar: Includes Apple logo, product categories, search, and shopping cart icons.
+
+-Product Sections: Displays key Apple products with promotional content:
+iPhone 14 – Highlights new features and availability.
+iPhone 14 Pro – Showcases advanced capabilities.
+Apple Watch Series 8 – Features promotional tagline and image.
+
+-Typography & Colors:
+Uses the Roboto font for a modern look.
+Dark-themed sections with contrasting light text for readability.
+
+Hover Effects: Navigation links change color on hover.
+
+<!-- Technologies Used  -->
+
+-HTML5: Structured layout and semantic elements.
+
+-CSS3: Custom styling with:
+Flexbox-based layout.
+Color contrast for readability.
+Consistent typography.
